@@ -1,0 +1,3 @@
+Go to exodus folder -> Exodus.exe 
+
+CTRL + AA to change the money
